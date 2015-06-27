@@ -7,7 +7,7 @@ Create node.js application to expose CRUD operations for a Product Entity as RES
 * Install MySQL and prepare database by running products.sql
 * Install Node.js
 * Install git
-* Clone the repo : git clone  https://github.com/neerajkela/Node-js-RESTful-CRUD-MySQL/tree/master
+* Clone the repo : git clone  https://github.com/neerajkela/Node-js-RESTful-CRUD-MySQL/
 * Install dependencies using command: npm install  
 * Start the server by using command: node server.js
 * Install Postman in chrome to view the response data of APIs
